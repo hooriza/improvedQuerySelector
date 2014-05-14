@@ -63,9 +63,9 @@
 
 })();
 
-console.log(document.body.querySelector('> div'));
+// console.log(document.body.querySelector('> div'));
 
-var foo = document.createElement('div');
-foo.innerHTML = '<span>hello</span><strong>world</strong>';
+// var foo = document.createElement('div');
+// foo.innerHTML = '<span>hello</span><strong>world</strong>';
 
-foo.querySelector('> span').querySelector('~ strong');
+// foo.querySelector('> span').querySelector('~ strong');
